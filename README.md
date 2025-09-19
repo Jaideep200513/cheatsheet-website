@@ -17,9 +17,11 @@ Check out the live version hosted on Hugging Face Spaces:
 
 ```
 cheatsheet-website/
-│── index.html # Main HTML page
-│── style.css # CSS styling
-│── assets/ # Images, fonts, or other resources
+|-- index.html # Main homepage
+|-- style.css # Global styling for the website
+|-- html.html # Cheatsheet for HTML
+|-- css.html # Cheatsheet for CSS
+|-- git.html # Cheatsheet for Git
 ```
 
 ## ✨ Acknowledgements
