@@ -15,12 +15,12 @@ Check out the live version hosted on Hugging Face Spaces:
 
 ## 📁 Project Structure
 
-'''
+```
 cheatsheet-website/
 │── index.html # Main HTML page
 │── style.css # CSS styling
 │── assets/ # Images, fonts, or other resources
-'''
+```
 
 ## ✨ Acknowledgements
 
