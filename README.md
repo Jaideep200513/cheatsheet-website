@@ -15,6 +15,7 @@ Check out the live version hosted on Hugging Face Spaces:
 
 ## 📁 Project Structure
 
+'''text
 cheatsheet-website/
 │── index.html # Main HTML page
 │── style.css # CSS styling
